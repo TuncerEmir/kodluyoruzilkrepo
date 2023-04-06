@@ -8,7 +8,9 @@ bu repo [kodluyoruz](https://kodluyoruz.org/) Front-End Eğitiminde oluşturduğ
 
 Öncelikle projeyi clonelayın. (https://github.com/TuncerEmir/kodluyoruzilkrepo.git)
 
-'''git clone https://github.com/TuncerEmir/kodluyoruzilkrepo.git'''
+```javascript
+git clone https://github.com/TuncerEmir/kodluyoruzilkrepo.git
+```
 
 # Usage
 
